@@ -1,4 +1,4 @@
-![Frontier Stageworks](FSW-Logo.PNG)
+<img src="FSW-Logo.PNG" align="right" width="160" alt="Frontier Stageworks logo">
 
 # Frontier Stageworks
 
@@ -9,6 +9,8 @@ Frontier Stageworks builds practical technology for independent directors, small
 We are interested in the space between expensive professional systems and improvised workarounds. That is where small teams are often doing the most inventive work, but it is also where the available tools tend to be closed, overpriced, fragile, or designed for productions with entirely different resources.
 
 We want to help change that.
+
+<br clear="right">
 
 ## A bigger scene, not a bigger gate
 
