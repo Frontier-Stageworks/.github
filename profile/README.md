@@ -1,3 +1,5 @@
+![Frontier Stageworks](FSW-Logo.PNG)
+
 # Frontier Stageworks
 
 **Professional filmmaking tools for people building outside the system.**
