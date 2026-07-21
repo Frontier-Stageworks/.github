@@ -1,6 +1,6 @@
-<img src="FSW-Logo.PNG" align="right" width="160" alt="Frontier Stageworks logo">
-
 # Frontier Stageworks
+
+<img src="FSW-Logo.PNG" width="375" align="right"/>
 
 **Professional filmmaking tools for people building outside the system.**
 
@@ -10,7 +10,7 @@ We are interested in the space between expensive professional systems and improv
 
 We want to help change that.
 
-<br clear="right">
+<br clear="right"/>
 
 ## A bigger scene, not a bigger gate
 
