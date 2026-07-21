@@ -1,6 +1,6 @@
 # Frontier Stageworks
 
-<img src="FSW-Logo.PNG" width="375" align="right"/>
+<img src="FSW-Logo.PNG" width="500" align="right"/>
 
 **Professional filmmaking tools for people building outside the system.**
 
